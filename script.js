@@ -21,3 +21,5 @@ const getRandomMessage = msgArray => {
 }
 
 const displayMessage = message => console.log(message);
+
+main();
